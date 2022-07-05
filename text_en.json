@@ -1,0 +1,14 @@
+{
+    "items":[
+        {
+            "key":"THIS_IS_MY_FIRST_KEY",
+            "value":"this is a teste in english"
+        },
+        {
+            "key":"THIS_IS_MY_SECOND_KEY",
+            "value":"this is a second test in english"
+        }
+
+
+    ]
+}

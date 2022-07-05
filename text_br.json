@@ -1,0 +1,14 @@
+    {
+        "items":[
+            {
+                "key":"THIS_IS_MY_FIRST_KEY",
+                "value":"esse é um teste em português"
+            },
+            {
+                "key":"THIS_IS_MY_SECOND_KEY",
+                "value":"esse é um segundo teste em português"
+            }
+
+
+        ]
+    }
